@@ -1,0 +1,41 @@
+feature,mean_abs_shap
+2-methylserine,0.16746426
+m-tyramine sulfate,0.15715632
+2'-O-methyluridine,0.1270221
+2-methylcitrate/homocitrate,0.11275825
+arabonate/xylonate,0.08264634
+pyridoxamine,0.07980565
+glycerophosphoglycerol,0.077948675
+phenylacetyltaurine,0.076890424
+5-methyl-2'-deoxycytidine,0.05543226
+3-methylcytidine,0.05124729
+ribitol,0.04879143
+phenylacetylglycine,0.048751354
+choline,0.045122474
+betaine,0.042527363
+ribonate,0.04088496
+leucylhydroxyproline,0.036779273
+3-hydroxyadipate*,0.035414807
+adenosine,0.03160529
+"adenosine 3',5'-cyclic monophosphate (cAMP)",0.025712598
+N-acetylglucosamine/N-acetylgalactosamine,0.024386022
+glycerophosphoserine*,0.021514717
+phenylalanylhydroxyproline,0.020564212
+"N6,N6,N6-trimethyllysine",0.018418554
+isoleucylhydroxyproline,0.017982045
+phenylacetylserine,0.017043266
+"guanosine-3',5'-cyclic monophosphate (cGMP)",0.014774746
+C-glycosyltryptophan,0.014380366
+isoputreanine,0.013994866
+1-methylguanosine,0.010171077
+4-hydroxymandelate,0.008258897
+allantoin,0.006550917
+decadienedioic acid (C10:2-DC),0.0060733175
+4-octenedioate,0.0057779974
+biopterin,0.0033149098
+N3-methyluridine,0.0027179997
+O-sulfo-L-tyrosine,0.0026660783
+levulinate (4-oxovalerate),0.0025908367
+suberate (C8-DC),0.0021751733
+1-methyladenosine,0.0015874124
+7-methylguanine,0.0005126163

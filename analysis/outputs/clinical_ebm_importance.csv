@@ -1,0 +1,35 @@
+feature,ebm_importance
+USG,2.084733771212247
+BUN (mg/dL),1.4238307928108818
+MCS (0-3),1.1730740063563396
+Creatinine (mg/dL),0.9263519322129955
+Age (years),0.494004680455581
+Cholesterol (mg/dL),0.43919192563400206
+TP (g/dL),0.3311759380215867
+missingindicator_SDMA (μg/dL),0.28715079302608276
+Total Calcium (mg/dL),0.21240983565121432
+Proteinuria (mg/dL),0.16677111423184685
+Phosphorus (mg/dL),0.16557007443043714
+HCT (%),0.16293880890514467
+Globulin (g/dL),0.15902110201954484
+Weight (kg),0.12554439979186488
+Potassium (mEq/L),0.11061641108441869
+missingindicator_Proteinuria (mg/dL),0.10878963545576263
+Bicarbonate (mEq/L),0.09184544901895568
+missingindicator_Cholesterol (mg/dL),0.068662633537991
+missingindicator_TP (g/dL),0.06861426389347917
+BP (mmHg),0.06665411029809691
+SDMA (μg/dL),0.06646501903728054
+BCS (1-9),0.05950565117891014
+missingindicator_Bicarbonate (mEq/L),0.0580421830076841
+missingindicator_USG,0.05741622210241305
+missingindicator_Globulin (g/dL),0.05633485242706741
+Albumin (g/dL),0.05138939445919309
+missingindicator_TT4 (nmol/L),0.04577583037138048
+missingindicator_BCS (1-9),0.04467590484280707
+TT4 (nmol/L),0.04280204659956817
+missingindicator_Weight (kg),0.033548396191433794
+Sodium (mEq/L),0.03208772848191055
+missingindicator_Albumin (g/dL),0.017717230318580343
+missingindicator_MCS (0-3),0.008278069699635151
+missingindicator_BP (mmHg),0.005238439752444438

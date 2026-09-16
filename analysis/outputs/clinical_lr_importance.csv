@@ -1,0 +1,35 @@
+feature,abs_coefficient,coefficient
+USG,1.0903109062771492,-1.0903109062771492
+BUN (mg/dL),0.5635941363169676,0.5635941363169676
+MCS (0-3),0.4880692707387422,0.4880692707387422
+TP (g/dL),0.29559689887349166,0.29559689887349166
+Age (years),0.2931382790182382,0.2931382790182382
+Creatinine (mg/dL),0.2760089482083442,0.2760089482083442
+Total Calcium (mg/dL),0.2177782649677481,0.2177782649677481
+Cholesterol (mg/dL),0.1725104139883159,-0.1725104139883159
+missingindicator_SDMA (μg/dL),0.13027405694824273,0.13027405694824273
+Globulin (g/dL),0.12149562129406496,0.12149562129406496
+HCT (%),0.07716906004982618,-0.07716906004982618
+missingindicator_Cholesterol (mg/dL),0.05228456340874254,-0.05228456340874254
+missingindicator_TP (g/dL),0.05228456340874254,-0.05228456340874254
+missingindicator_TT4 (nmol/L),0.05120216821339516,0.05120216821339516
+Weight (kg),0.033402273434909445,-0.033402273434909445
+missingindicator_USG,0.015410233431152989,-0.015410233431152989
+Albumin (g/dL),0.0,0.0
+SDMA (μg/dL),0.0,0.0
+missingindicator_Proteinuria (mg/dL),0.0,0.0
+missingindicator_Bicarbonate (mEq/L),0.0,0.0
+BCS (1-9),0.0,0.0
+BP (mmHg),0.0,0.0
+missingindicator_Globulin (g/dL),0.0,0.0
+missingindicator_Albumin (g/dL),0.0,0.0
+missingindicator_BP (mmHg),0.0,0.0
+Sodium (mEq/L),0.0,0.0
+missingindicator_MCS (0-3),0.0,0.0
+missingindicator_BCS (1-9),0.0,0.0
+missingindicator_Weight (kg),0.0,0.0
+TT4 (nmol/L),0.0,0.0
+Proteinuria (mg/dL),0.0,0.0
+Phosphorus (mg/dL),0.0,0.0
+Potassium (mEq/L),0.0,0.0
+Bicarbonate (mEq/L),0.0,0.0

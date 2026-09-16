@@ -1,0 +1,31 @@
+row,feature,weight
+0,1.02 < USG <= 1.03,0.25881412676389876
+0,22.00 < BUN (mg/dL) <= 30.50,-0.17208476073957088
+0,missingindicator_Cholesterol (mg/dL) <= 0.00,-0.05180056583685829
+0,Creatinine (mg/dL) <= 1.40,-0.051463553136659436
+0,missingindicator_Albumin (g/dL) <= 0.00,-0.047806696449254726
+0,missingindicator_BP (mmHg) > 0.00,-0.038256226876693875
+0,missingindicator_TP (g/dL) <= 0.00,0.03615577507978211
+0,missingindicator_Proteinuria (mg/dL) <= 0.00,-0.029778619809309383
+0,missingindicator_Bicarbonate (mEq/L) <= 0.00,0.025722839773482897
+0,Total Calcium (mg/dL) <= 9.60,0.02411569172440715
+2,1.03 < USG <= 1.05,-0.2302808177329606
+2,30.50 < BUN (mg/dL) <= 45.25,0.19022487284275622
+2,missingindicator_Weight (kg) <= 0.00,-0.09896665472049879
+2,missingindicator_USG <= 0.00,0.044084452884892246
+2,Creatinine (mg/dL) <= 1.40,-0.04057743297349828
+2,Globulin (g/dL) <= 3.27,-0.04024518919415034
+2,missingindicator_Proteinuria (mg/dL) <= 0.00,0.040128916157542514
+2,1.81 < TT4 (nmol/L) <= 2.22,-0.037493856177711636
+2,missingindicator_MCS (0-3) <= 0.00,0.02824293437181149
+2,Albumin (g/dL) > 3.80,0.02800153659809337
+55,USG > 1.05,-0.3116385667431952
+55,22.00 < BUN (mg/dL) <= 30.50,-0.17005720511116906
+55,missingindicator_TP (g/dL) <= 0.00,-0.04417828299183135
+55,missingindicator_Cholesterol (mg/dL) <= 0.00,0.03819382516564753
+55,missingindicator_TT4 (nmol/L) <= 0.00,-0.03484494006283688
+55,missingindicator_Albumin (g/dL) <= 0.00,0.034707376681050575
+55,missingindicator_BCS (1-9) <= 0.00,-0.03434022399584407
+55,missingindicator_Weight (kg) <= 0.00,0.032682964991935404
+55,missingindicator_Bicarbonate (mEq/L) <= 0.00,-0.02570202476400451
+55,176.00 < Cholesterol (mg/dL) <= 212.00,0.025291760504135927

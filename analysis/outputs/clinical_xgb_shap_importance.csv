@@ -1,0 +1,35 @@
+feature,mean_abs_shap
+USG,0.9654908
+BUN (mg/dL),0.7521761
+Creatinine (mg/dL),0.11602924
+MCS (0-3),0.077231824
+Age (years),0.013862024
+Bicarbonate (mEq/L),0.00466239
+Total Calcium (mg/dL),0.0
+Albumin (g/dL),0.0
+Sodium (mEq/L),0.0
+Potassium (mEq/L),0.0
+SDMA (μg/dL),0.0
+Phosphorus (mg/dL),0.0
+TP (g/dL),0.0
+HCT (%),0.0
+BP (mmHg),0.0
+BCS (1-9),0.0
+Weight (kg),0.0
+Globulin (g/dL),0.0
+missingindicator_TT4 (nmol/L),0.0
+missingindicator_Proteinuria (mg/dL),0.0
+Proteinuria (mg/dL),0.0
+TT4 (nmol/L),0.0
+missingindicator_Weight (kg),0.0
+missingindicator_BCS (1-9),0.0
+missingindicator_MCS (0-3),0.0
+missingindicator_BP (mmHg),0.0
+missingindicator_SDMA (μg/dL),0.0
+missingindicator_Albumin (g/dL),0.0
+missingindicator_Globulin (g/dL),0.0
+missingindicator_TP (g/dL),0.0
+missingindicator_Cholesterol (mg/dL),0.0
+missingindicator_Bicarbonate (mEq/L),0.0
+missingindicator_USG,0.0
+Cholesterol (mg/dL),0.0
